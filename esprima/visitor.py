@@ -23,6 +23,7 @@
 
 from __future__ import unicode_literals
 
+import re
 import json
 import types
 from collections import deque
